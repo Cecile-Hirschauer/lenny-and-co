@@ -1,0 +1,15 @@
+{
+  "color": {
+    "primary": {
+      "500": { "value": "#0056b3" },
+      "600": { "value": "#003d82" }
+    },
+    "secondary": {
+      "500": { "value": "#6c757d" }
+    },
+    "neutral": {
+      "0": { "value": "#ffffff" },
+      "900": { "value": "#1a202c" }
+    }
+  }
+}

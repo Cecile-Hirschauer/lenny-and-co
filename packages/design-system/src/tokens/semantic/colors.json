@@ -1,0 +1,19 @@
+{
+  "color": {
+    "bg": {
+      "app":   { "value": "{color.neutral.0}" }
+    },
+    "text": {
+      "primary": { "value": "{color.neutral.900}" }
+    },
+    "brand": {
+      "primary": {
+        "default": { "value": "{color.primary.500}" },
+        "pressed": { "value": "{color.primary.600}" }
+      },
+      "secondary": {
+        "default": { "value": "{color.secondary.500}" }
+      }
+    }
+  }
+}
